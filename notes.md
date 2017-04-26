@@ -151,7 +151,7 @@ This happened in March in Madrid!
 --
 
 
-Let's play the game
+MELet's play the game
 
 --
 
@@ -182,4 +182,4 @@ slides online
 
 
 
-Here are some resources
+Here are some resources╔
