@@ -294,3 +294,6 @@ body {
 .dep-tree {
   width: 16em !important;
   box-shadow: none !important; }
+
+small {
+  vertical-align: middle !important; }
