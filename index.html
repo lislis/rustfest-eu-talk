@@ -218,6 +218,7 @@ fn main() {
           <p class="fragment">Check which button is released, call methods</p>
         </section>
         <section>
+          <h3>Throw apple</h3>
           <pre><code data-trim data-noescape>
 // Player struct
 pub fn throw(&mut self) {
@@ -255,7 +256,7 @@ pub fn update(&mut self) {
     if self.active {
         if self.ltr {
             self.x += 1.0 * self.speed;
-            if self.x > 1000.0 {
+            if self.x > 550.0 {
                 self.active = false;
             }
         } else {
